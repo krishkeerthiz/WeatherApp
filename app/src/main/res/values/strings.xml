@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="get">Get</string>
+    <string name="report">Weather Report</string>
+    <string name="mintemp">Min Temperature : </string>
+    <string name="maxtemp">Max Temperature : </string>
+    <string name="detail">More Details</string>
+    <string-array name="units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="continents">
+        <item>Africa</item>
+        <item>Antarctica</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Europe</item>
+        <item>North America</item>
+        <item>South America</item>
+    </string-array>
+</resources>
